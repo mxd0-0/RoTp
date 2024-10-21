@@ -1,0 +1,3 @@
+C:/Users/mohammed/CLionProjects/RoTp/cmake-build-debug/CMakeFiles/RoTp.dir
+C:/Users/mohammed/CLionProjects/RoTp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mohammed/CLionProjects/RoTp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
